@@ -30,7 +30,7 @@ app.get("/", (req, res) => {
 app.get('/messages', async(req,res) => {
   // SELECT * FROM Message
   let messages = await Message.find({});
-  res.json(message);
+  res.json(messages);
 
 })
 
