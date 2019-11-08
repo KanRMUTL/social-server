@@ -19,7 +19,7 @@
     "cors": "^2.8.4",
     "express": "^4.16.3",
     "jsonwebtoken": "^8.3.0",
-    "mongoose": "^5.2.1",
+    "mongoose": "^5.7.5",
     "mongoose-paginate": "^5.0.3",
     "mongoose-timestamp": "^0.6.0",
     "morgan": "^1.9.0",
